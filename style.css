@@ -79,10 +79,8 @@ footer{
   color: white;
   text-align: center;
 }
-footer > a{
-    
-    text-transform: capitalize;
-    color: var(--green);
+a{
+
     text-decoration: none;
 }
 @media only screen and (min-width: 768px) {
